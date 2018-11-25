@@ -5,3 +5,4 @@ We are adding it from feat1 branch.
 We are adding it from local master
 We are adding it from remote master
 We are recreating git statsh
+We are recreating stashing on feat1
